@@ -1,11 +1,11 @@
 ![Screenshot (326) - Copy](https://user-images.githubusercontent.com/61571099/111835960-e146c580-88b2-11eb-8a9a-5584b7db7834.png)
 # 👋 {'Hello World! I'm Anothay Chansy'}; 🌎
 
-I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end devoloper.
+I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end devoloper.<br>
 An absolutely exciting journey! 
 
 I started out as a student with ◯‍◯‍◯‍◯‍◯ knowledge of programming language, and now I can confidently say I know how to build something. 
-I am excited to learn more and curious about how my journey will end.
+<br>I am excited to learn more and curious about how my journey will end.
 
  ###  My Pathways:<br><i>C#, HTML, CSS, Javascript, Angular, Typescript, React, API Building, <br> Adobe XD, Figma
 
