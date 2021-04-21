@@ -1,5 +1,6 @@
 ![Screenshot (326) - Copy](https://user-images.githubusercontent.com/61571099/111835960-e146c580-88b2-11eb-8a9a-5584b7db7834.png)
 # 👋 {'Hello World! I'm Anothay Chansy'}; 🌎
+[Here's my link-tree]( https://tinyurl.com/anothaycdesign)
 
 I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end developer.<br>
 An absolutely exciting journey! 
@@ -26,4 +27,6 @@ I really love the sceanry drive there with the stunning lake that we can relax a
 🥩:Steak Lover<br>
 🎂:Baker
 
-[Here's my link-tree]( https://tinyurl.com/anothaycdesign)
+
+
+![Metrics](https://metrics.lecoq.io/aaiilee0715?template=classic&config.timezone=America%2FLos_Angeles)
