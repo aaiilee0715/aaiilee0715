@@ -1,8 +1,13 @@
-![Screenshot (326) - Copy](https://user-images.githubusercontent.com/61571099/111835960-e146c580-88b2-11eb-8a9a-5584b7db7834.png)
-# 👋 {'Hello World! I'm Anothay Chansy'}; 🌎
-[Here's my link-tree]( https://tinyurl.com/anothaycdesign)
 
-I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end developer.<br>
+<h3 align="center"> 👋 {'Hello World! I'm Anothay Chansy'}; 🌎 </h3>
+<p align="center">
+ <a href="https://aaiilee0715.github.io/link-treebio/" rel="nofollow">Link-Tree</a>
+◾️ 
+ <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow">Instagram</a>
+</p>
+<hr>
+
+✨  I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end developer.<br>
 An absolutely exciting journey! 
 
 I started out as a student with ◯‍◯‍◯‍◯‍◯ knowledge of programming language, and now I can confidently say I know how to build something. 
