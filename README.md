@@ -7,11 +7,9 @@
 </p>
 <hr>
 
-✨  I am a third-year full-time student at [CodeStack Academy]( https://codestackacademy.org/home) in Stockton CA, where I am pursuing a profession as a front-end developer.<br>
-An absolutely exciting journey! 
-
-I started out as a student with ◯‍◯‍◯‍◯‍◯ knowledge of programming language, and now I can confidently say I know how to build something. 
-<br>I am excited to learn more and curious about how my journey will end.
+✨Web Developer 👩🏽‍💻 || CodeStack Academy Alumni || Passionate UI/UX Designer || I Learn Every Day 
+<hr>
+<br>And proudly joined a mission to close the gender gap in technology and breaking stereotypes as a software engineer. 
 
  ###  My Pathways:<br><i>C#, HTML, CSS, Javascript, Angular, Typescript, React, API Building, <br> Adobe XD, Figma
 
