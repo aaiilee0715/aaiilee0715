@@ -4,10 +4,10 @@
 ◾️ 
  <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow">Instagram</a>
 </p>
+<br>
+<p align="center">✨Web Developer 👩🏽‍💻 || CodeStack Academy Alumni || Passionate UI/UX Designer || I Learn Every Day </p>
 <hr>
 
-✨Web Developer 👩🏽‍💻 || CodeStack Academy Alumni || Passionate UI/UX Designer || I Learn Every Day 
-<hr>
 <br>And proudly joined a mission to close the gender gap in technology and breaking stereotypes as a software engineer. 
 
  ###  My Pathways:<br><i>C#, HTML, CSS, Javascript, Angular, Typescript, React, API Building, <br> Adobe XD, Figma
