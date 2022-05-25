@@ -1,7 +1,6 @@
 
 <h3 align="center"> 👋 {'Hello World! I'm Anothay Chansy'}; 🌎 </h3>
 <p align="center">
- <a href="https://aaiilee0715.github.io/link-treebio/" rel="nofollow">Link-Tree</a>
 ◾️ 
  <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow">Instagram</a>
 </p>
