@@ -5,7 +5,7 @@
  <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow">Instagram</a>
 </p>
 <br>
-<p align="center">✨Web Developer 👩🏽‍💻 || CodeStack Academy Alumni || Passionate UI/UX Designer || I Learn Every Day </p>
+<p align="center">👩🏽‍💻Junior Front-End Web Developer || HTML . CSS . Angular . TypeScript || CodeStack Academy Alumni || Passion for UI/UX Design || Learn Every Day || Looking for opportunities </p>
 <hr>
 
 <br>And proudly joined a mission to close the gender gap in technology and breaking stereotypes as a software engineer. 
