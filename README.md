@@ -2,9 +2,9 @@
 <h3 align="center"> 👋 {'Hello World! I'm Anothay Chansy'}; 🌎 </h3>
 <p align="center">
 ◾️ 
- <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow">Instagram</a>
+ <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow" target="_blank">Instagram</a>
 ◾️ 
- <a href="https://www.linkedin.com/in/anothay-chansy-71400520a/" rel="nofollow">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/anothay-chansy-71400520a/" rel="nofollow" target="_blank">LinkedIn</a>
 </p>
 <br>
 <p align="center">👩🏽‍💻Junior Front-End Web Developer || HTML . CSS . Angular . TypeScript || CodeStack Academy Alumni || Passion for UI/UX Design || Learn Every Day || Looking for opportunities </p>
