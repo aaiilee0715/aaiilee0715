@@ -1,5 +1,5 @@
 
-<h3 align="center"> 👋 {'Hello World! I'm Anothay Chansy'}; 🌎 </h3>
+<h3 align="center"> 👋 {'Hello World! I'm Anothay Lee'}; 🌎 </h3>
 <p align="center">
 ◾️ 
  <a href="https://www.instagram.com/anothay_chansy/" rel="nofollow" target="_blank">Instagram</a>
